@@ -14,7 +14,7 @@ event countdowns at once - built with [Scriptable](https://scriptable.app/)
 
 1. Download the free **Scriptable** app from the App Store
 2. Open Scriptable → tap **+** to create a new script
-3. Copy the contents of [`ios_countdown_widget.js`] and paste it in
+3. Copy the contents of [`ios_countdown_widget.js`](./https://gist.githubusercontent.com/mdshahadathossen/d31b24bbec02bda9a32db7b6930e11f5/raw/f33e9d8d860349237dbc8f87fbb394644a3a2f0c/gistfile1.txt)and paste it in
 4. Rename the script (tap the pencil icon)
 5. Edit the `events` array near the top with your own event names, dates, and colors
 6. On your Home Screen: long-press → tap **+** → search "Scriptable" → 
