@@ -25,14 +25,14 @@ event countdowns at once - built with [Scriptable](https://scriptable.app/)
 
 Just edit the `events` array:
 
-\`\`\`javascript
+\`\`\`
 let events = [
   { name: "Vacation", date: new Date("2026-12-25"), color: "#4ECDC4" },
   { name: "Birthday", date: new Date("2026-08-15"), color: "#FF6B6B" }
 ]
 \`\`\`
 
-Add as many events as you like — pick a bigger widget size (medium/large) 
+Add as many events as you like - pick a bigger widget size (medium/large) 
 if you add more than 2-3.
 
 ## License
