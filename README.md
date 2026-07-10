@@ -1,7 +1,7 @@
 # iOS Countdown Widget
 
 A free, customizable Home Screen widget for iOS that shows multiple 
-event countdowns at once — built with [Scriptable](https://scriptable.app/) 
+event countdowns at once - built with [Scriptable](https://scriptable.app/) 
 (free app, no coding experience needed to use it).
 
 ## Features
